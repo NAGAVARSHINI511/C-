@@ -1,3 +1,4 @@
+//Display Multiplication Table up to 10
 #include <iostream>
 using namespace std;
 
