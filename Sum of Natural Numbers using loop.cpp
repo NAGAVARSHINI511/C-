@@ -1,4 +1,4 @@
-//sum of n natural numbers using loop
+//program to find sum of n natural numbers using loop
 #include <iostream>
 using namespace std;
 
